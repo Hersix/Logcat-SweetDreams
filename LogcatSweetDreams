@@ -1,0 +1,5 @@
+03-11 03:41:52.629: I/Choreographer(1163): Skipped 57 frames!  The application may be doing too much work on its main thread.
+03-11 03:41:52.749: D/gralloc_goldfish(1163): Emulator without GPU emulation detected.
+03-11 03:42:03.449: E/MediaPlayer(1163): start called in state 64
+03-11 03:42:03.449: E/MediaPlayer(1163): error (-38, 0)
+03-11 03:42:03.469: E/MediaPlayer(1163): Error (-38,0)
